@@ -23,7 +23,7 @@ if(life_has_insurance) then
 }
 	else
 {
-	if(_funds > life_atmcash) then
+	if(_funds => life_atmcash) then
 	{
 		hint "Due to the robbery on the Federal Reserve you have lost a percentage of your money but you have went bankrupt.\n\nNext time buy some banking insurance on your next visit to a ATM to better protect your assets!";
 		life_atmcash = 0;
