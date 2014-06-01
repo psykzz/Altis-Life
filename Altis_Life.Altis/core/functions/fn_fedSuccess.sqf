@@ -21,7 +21,7 @@ if(life_has_insurance) then
 	life_has_insurance = false;
 
 }
-	else
+else
 {
 	if(_funds >= life_atmcash) then
 	{
