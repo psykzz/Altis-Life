@@ -3793,7 +3793,7 @@
 		</Key>
 		<Key ID="STR_ISTR_Pick_NotNear">
 			<Original>You are not near a mine!</Original>
-			<English>You are not near a mine!</English>
+			<English>You are not near a mine or an oil field!</English>
 			<German>Du bist nicht in der Nähe einer Mine!</German>
 			<French>Vous n'êtes pas près d'une mine!</French>
 			<Italian>Non ti trovi vicino ad una mina!</Italian>
